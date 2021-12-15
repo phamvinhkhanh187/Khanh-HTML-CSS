@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    width: 100%;
+    height: 30px;
+    background: coral;
+}
+
+ul{
+    width: 1000px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    padding: 7px;
+    border: 1px solid black;
+}
